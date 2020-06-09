@@ -1,10 +1,10 @@
 # VigenereCipher
 
-Implementasi Vigenere Cipher
+Aplikasi Implementasi Vigenere Cipher
 
 Terdapat dua buah menu:
-1. Enkripsi
-2. Dekripsi
+1. Enkripsi : untuk mengubah teks terang menjadi teks sandi
+2. Dekripsi : untuk mengubah teks sandi menjadi teks terang
 
 Input dan output berupa teks string
 
